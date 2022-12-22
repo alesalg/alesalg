@@ -1,8 +1,8 @@
 <img height="20" src="https://komarev.com/ghpvc/?username=alesalg&label=Profile%20views&color=0e75b6&style=flat" alt="alexandre-barbosa" />
 
-### Oi! Sou o Alexandre, estudante de Desenvolvimento Full Stack pela SoulCode Academy e Gama Academy.
+### Desenvolvedor Full Stack apaixonado por soluções simples para problemas difíceis. Entusiasta de métodos ágeis, ambientes flexíveis e entrega contínua.
 
-#### Hey! I am Alexandre, full stack development student at SoulCode Academy and Gama Academy
+#### Full Stack developer passionate about simple solutions to difficult problems. Enthusiast of agile methods, flexible environments and continuous delivery.
 <br>
 
 - FullStack Student SoulCode Academy - [ Angular | Node.Js | Mongodb | Firebase | MySQL ]
